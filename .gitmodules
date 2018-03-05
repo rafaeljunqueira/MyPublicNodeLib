@@ -1,0 +1,3 @@
+[submodule "NodeFeathersChat"]
+	path = NodeFeathersChat
+	url = https://github.com/feathersjs/feathers-chat.git
