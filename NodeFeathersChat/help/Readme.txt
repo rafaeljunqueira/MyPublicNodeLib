@@ -1,0 +1,1 @@
+Copy [mar/2018] from https://github.com/feathersjs/feathers-chat
